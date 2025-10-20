@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+bun.lock
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Cache directories
+.cache/
+.bun-cache/
+.tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
